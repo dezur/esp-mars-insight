@@ -1,5 +1,7 @@
 # ESP8266 Mars weather station
 
+MARS weather api: https://api.mars.spacexcompanion.app/
+
 This project was made for AZSMZ Touch 2.4
 You can buy here: https://www.aliexpress.com/item/32836372386.html
 
